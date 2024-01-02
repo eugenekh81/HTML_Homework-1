@@ -1,6 +1,7 @@
 - Створи репозиторій markup-hw-01.
 - Виконай HTML-розмітку макета сторінки [домашнього завдання #1](https://www.figma.com/file/1ehrLBauvVFu4mVhxsHzyZ/Web-Studio-(Version-2.1)?node-id=0%3A1), без CSS оформлення.
-- Налаштуй `GitHub Pages` і додай посилання на живу сторінку в шапку GitHub-репозиторія.
+- Налаштуй `GitHub Pages` і додай посилання на живу сторінку в шапку GitHub-репозиторія:
+- https://proroman93.github.io/HTML_Homework-1/
 
 # Критерії приймання роботи наставником
 ## Проект
